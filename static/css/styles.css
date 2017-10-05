@@ -1,3 +1,4 @@
+
 /*
 * HELLO-PROGRAMMER Theme CSS
 */
@@ -43,7 +44,7 @@ h5 {
 }
 
 a, a:visited {
-  color: #00B2A0;
+  color: #77C159;
   text-decoration: none;
 }
 
@@ -119,7 +120,7 @@ dt {
   padding-top: 10px;
   font-weight: bold;
   font-size: 16px;
-  color: #00B2A0;
+  color: #77C159;
   letter-spacing: 3.03px;
 }
 
@@ -218,7 +219,7 @@ dt {
 }
 
 .share a:hover {
-  color: #00B2A0;
+  color: #77C159;
 }
 
 
@@ -227,7 +228,7 @@ dt {
 */
 .paging {
   margin-bottom: 15px;
-  color: #00B2A0;
+  color: #77C159;
   font-size: 1.4rem;
   text-align: center;
 }
